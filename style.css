@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.search-container {
+  margin: 20px;
+}
+
+.search-input {
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.search-button {
+  margin: 5px;
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#results {
+  margin-top: 20px;
+}
